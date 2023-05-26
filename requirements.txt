@@ -1,0 +1,8 @@
+langchain
+openai
+elevenlabs
+python-dotenv
+ipykernel
+ipywidgets
+pyaudio
+mutagen
