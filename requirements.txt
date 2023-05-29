@@ -6,3 +6,6 @@ ipykernel
 ipywidgets
 pyaudio
 mutagen
+tiktoken
+wikipedia
+google-search-results
